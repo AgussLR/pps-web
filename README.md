@@ -74,6 +74,9 @@ Después, acceder desde el navegador a:
 ```text
 http://localhost:8000
 ```
+[![imgur](https://i.imgur.com/5z7cvMz.gif)](https://rjshkhr.github.io/cleanfolio-minimal)
+
+[Live Demo](https://raulortegar.github.io/pps-web/)
 
 ## Objetivos de aprendizaje
 
