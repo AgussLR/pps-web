@@ -1,32 +1,26 @@
-# Changelog
+# Registro de cambios
 
-_Generado el 2026-11-04_
+Todos los cambios importantes de este proyecto se apuntan en este archivo.
 
-## Nuevas funcionalidades
+El formato sigue [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
-- añadir script de changelog (05de702)
+## [Sin publicar]
 
-## Documentación
+### Añadido
+- Sección **Equipo** con tarjetas con los nombres de todo el alumnado participante.
+- Soporte multi-idioma (ES/EN) con botones en la barra de navegación, hecho solo con estilos.
+- Favicon del proyecto, relacionado con el módulo.
+- Este archivo `CHANGELOG.md`.
 
-- añadir CHANGELOG.md en formato Keep a Changelog (cf20028)
+### Cambiado
+- El título de la página pasa a ser "PPS Web".
+- Las secciones del menú pasan a llamarse **Contenidos** (`#contenidos`) y **Herramientas** (`#tools`).
+- La sección principal ahora presenta "Puesta en Producción Segura", con el subtítulo del módulo de Ciberseguridad y la descripción del curso del IES Aguadulce.
+- Los botones de la sección principal enlazan al IES Aguadulce y a sus redes sociales (LinkedIn, X y Facebook).
+- Los tres proyectos de ejemplo se sustituyen por **Pruebas Unitarias**, **OWASP-ASVS** y **CI/CD**, cada uno con su descripción, etiquetas y un único enlace externo.
+- Las etiquetas de herramientas son ahora JUnit, Git, GitHub Actions, GitLab, Docker, Kubernetes, Jenkins, Azure Pipelines y Circle CI, y cada una enlaza a su web oficial.
+- El correo de la sección de contacto es el del profesor.
+- El pie de página muestra "Creado por Alumnado-PPS" y enlaza al repositorio del proyecto.
 
-## Otros cambios
-
-- Update username (f939591)
-- Update README.md (ac74e4a)
-- Update README.md (988ce16)
-- Update README.md (173f2f3)
-- Update README.md (b900e9c)
-- Hide scroll-up button (60c30ab)
-- Refactor (bea7e79)
-- Replace div with span tag (ab20c0c)
-- Update README.md (3c7b3f7)
-- Add README.md (9fb0a21)
-- Create LICENCE (dce3c49)
-- Remove display when on homescreen (bf366ca)
-- Add About section and scroll top (0c488f4)
-- Create Skills section (bed6698)
-- Add aria-label to buttons without text (d70b51b)
-- Create Contact section (624679c)
-- Create Projects section (8d520ab)
-- Create header and footer (1f7eebb)
+### Eliminado
+- El botón de GitHub de la sección principal.
